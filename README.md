@@ -1,2 +1,2 @@
 # desafioHTML
-Desafio Formação HTML DIO,  o projeto contém um índice onde demonstrar as tags que foram aprendidas e trabalhadas do HTML 5,  links de voltar para o índice,  link com opção para ir direto para o tópico escolhido na lista.
+Desafio Formação HTML DIO, o projeto contém um índice onde demonstra as tags que foram aprendidas e trabalhadas do HTML 5, links em um índice lista com link para ir ao tópico escolhido, e também no tópico um link escrito voltar ao índice automaticamente, como foi solicitado no desafio, e também implementado como desafio solicitado além das descrições pessoais que eu aprendi durante o curso, referências onde contém todos os conteúdos relacionados no final da página, direcionando para links externos de vídeo do Youtube.
